@@ -5,3 +5,4 @@
 - Write a function that returns a set of all elements present in only one set.  
 - Write a function that returns the number of keys in a dictionary.  
 - Write a function that prints a dictionary by ordered keys.  
+- Write a function that replaces or adds key/value in a dictionary.  
