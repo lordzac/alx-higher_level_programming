@@ -4,3 +4,4 @@
 - Write a function that returns a set of common elements in two sets.  
 - Write a function that returns a set of all elements present in only one set.  
 - Write a function that returns the number of keys in a dictionary.  
+- Write a function that prints a dictionary by ordered keys.  
