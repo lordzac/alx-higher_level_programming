@@ -12,3 +12,4 @@
 - Write a function that returns a list with all values multiplied by a number without using any loops.  
 - Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.  
 - Write a function that returns the weighted average of all integers tuple (<score>, <weight>)  
+- Write a function that computes the square value of all integers of a matrix using map  
