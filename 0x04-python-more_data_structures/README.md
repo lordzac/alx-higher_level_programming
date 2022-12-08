@@ -14,3 +14,4 @@
 - Write a function that returns the weighted average of all integers tuple (<score>, <weight>)  
 - Write a function that computes the square value of all integers of a matrix using map  
 - Write a function that deletes keys with a specific value in a dictionary.  
+- Create two C functions that print some basic info about Python lists and Python bytes objects.
