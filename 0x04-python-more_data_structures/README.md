@@ -13,3 +13,4 @@
 - Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.  
 - Write a function that returns the weighted average of all integers tuple (<score>, <weight>)  
 - Write a function that computes the square value of all integers of a matrix using map  
+- Write a function that deletes keys with a specific value in a dictionary.  
