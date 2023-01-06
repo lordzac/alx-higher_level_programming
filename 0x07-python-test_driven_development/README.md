@@ -6,3 +6,4 @@
 - Write a function that prints a text with 2 new lines after each of these characters: ., ? and :
 - Write a function that multiplies 2 matrices:
 - Write a function that multiplies 2 matrices by using the module NumPy
+- Create a function that prints Python strings.
