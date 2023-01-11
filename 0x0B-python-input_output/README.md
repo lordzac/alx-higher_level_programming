@@ -10,3 +10,4 @@
 - Write a class Student that defines a student by:  
 - Write a class Student that defines a student by: (based on 9-student.py)  
 - Write a class Student that defines a student by: (based on 10-student.py)
+- Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:  
