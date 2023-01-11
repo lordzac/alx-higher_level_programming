@@ -9,3 +9,4 @@
 - Write a function that returns the dictionary description with simple data structure (list, dictionary, string, integer and boolean) for JSON serialization of an object:  
 - Write a class Student that defines a student by:  
 - Write a class Student that defines a student by: (based on 9-student.py)  
+- Write a class Student that defines a student by: (based on 10-student.py)
