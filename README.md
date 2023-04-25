@@ -42,6 +42,7 @@ using project-based peer learning. For more information, visit
 [this link](https://www.alxafrica.com/).
 
 <p align="center">
-  <img src="http://www.alxafrica.com/"
+  <img src="http://www.alxafrica.com/ALX-logo.png"
+       alt="Alx Africa logo"
   >
 </p>
