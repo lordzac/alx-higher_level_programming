@@ -1,3 +1,3 @@
-$('DIV#update_header').click(function () {
-  $('HEADER').text('New Header!!!');
+$.get('https://swapi.co/api/people/5/?format=json', function (data) {
+  $('DIV#character').text(data.name);
 });
